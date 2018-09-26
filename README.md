@@ -1,9 +1,10 @@
 
 # Meteor Overview
 
-## Technologies
+## Learning Curve
 
 * NodeJS - https://www.nodejs.org
+* ES6 - https://github.com/taniarascia/es6
 * Meteor - https://www.meteor.com
 * React - https://reactjs.org
 * MongoDB - https://www.mongodb.com
@@ -48,6 +49,10 @@ a UI framework can make creating UI components much easier.
 - Meteor uses DDP (sockets) to provide client/server communications
   - Data sets can be pushed to clients as they change on the server using a pub/sub model.
   - Data can be requested by the client from the backend using 'Methods'.
+  
+  
+
+
   
   
 
